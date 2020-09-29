@@ -14,9 +14,9 @@ Modified by "abinyose"
 
 ```
 
-$ git clone https://github.com/sanjidtk/sbot
+$ git clone https://github.com/abinyose/abot
 
-$ cd sbot
+$ cd abot
 
 $ node index.js
 
