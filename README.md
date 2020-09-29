@@ -48,9 +48,9 @@ $ node index.js
 
 * Repost Media Target by Link
 
-* Comment & Like Followers Target by People
+* Comment & Like  Target by People
 
-* Comment & Like Followers Target by Hashtag
+* Comment & Like  Target by Hashtag
 
 * Bom Like Target's Post
 
@@ -76,6 +76,6 @@ $ node index.js
 
 * Modified by abinyose
 
-Instagram www.instagram.com/mohsanjid
+Instagram www.instagram.com/the_hacker__0990/
 
-Youtube www.youtube.com/PhotoLooz
+
