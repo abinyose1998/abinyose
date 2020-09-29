@@ -14,7 +14,7 @@ Modified by "abinyose"
 
 ```
 
-$ git clone https://github.com/abinyose/abot
+$ git clone https://github.com/abinyose1998/abinyose
 
 $ cd abot
 
