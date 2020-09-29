@@ -6,7 +6,7 @@ Original author of this project is man who say himself as "CCOCOT".
 
 He deleted his own repository, then several members of SGBTeam are taking care of development and new features.
 
-Modified by "mohsanjid".Subscribe my channel for more autmation tools www.youtube.com/PhotoLooz
+Modified by "abinyose"
 
 ----
 
@@ -66,15 +66,15 @@ $ node index.js
 
 ### Thanks to
 
-* CODE BY CYBER SCREAMER CCOCOT (ccocot@bc0de.net)
 
-* FIXING & TESTING BY SYNTAX (@officialputu_id)
 
-* CCOCOT.CO | BC0DE.NET | NAONLAH.NET | WingkoColi
 
-* Thanks Massosky Ccocot 
 
-* Modified by mohsanjid
+
+
+
+
+* Modified by abinyose
 
 Instagram www.instagram.com/mohsanjid
 
