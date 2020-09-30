@@ -16,7 +16,7 @@ Modified by "abinyose"
 
 $ git clone https://github.com/abinyose1998/abinyose
 
-$ cd abot
+$ cd abinyose
 
 $ node index.js
 
